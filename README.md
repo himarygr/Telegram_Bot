@@ -18,4 +18,4 @@ Telegram бот со встроенным gpt 2 моделью.
 ### Результат: 
 Запущен тестовый Telegram-бот, основанный на примерах ответов модели sberbank-ai/rugpt3large_based_on_gpt2, приведенных ниже:
 
-![Иллюстрация к проекту](https://github.com/himarygr/Telegram_Bot/example.png)
+![Иллюстрация к проекту](example.png)
