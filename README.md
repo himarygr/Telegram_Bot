@@ -10,7 +10,7 @@ A test telegram bot was launched, based on the sberbank-ai/rugpt3large_based_on_
 ____________
 
 # Telegram_Bot
-Telegram бот со встроенным gpt 2 моделью.
+Интеграция Telegram бота и предобученной gpt-2 модели **sberbank-ai/rugpt3large_based_on_gpt2**
 
 ### Задача: 
 Внедрить готовую модель генератора текста на русском языке с обнимающимся лицом в Telegram-бота, чтобы пользователь мог с ним общаться.
