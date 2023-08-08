@@ -1,4 +1,4 @@
-# Telegram_Bot
+# Telegram Bot
 Telegram bot with embedded gpt 2 model.
 
 ### Task: 
